@@ -6,17 +6,18 @@ Overview
 
 The Titanic dataset provides information on passengers such as age, sex, class, etc. Our goal is to use this data to predict survival rates. The following 11 algorithms have been applied:
 
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Support Vector Machines (SVM)
-Decision Tree Classifier
-Random Forest Classifier
-Gradient Boosting Classifier
-AdaBoost Classifier
-Naive Bayes
-Extra Trees Classifier
-XGBoost
-LightGBM
+Logistic Regression ,
+K-Nearest Neighbors (KNN) ,
+Support Vector Machines (SVM) ,
+Decision Tree Classifier ,
+Random Forest Classifier ,
+Gradient Boosting Classifier ,
+AdaBoost Classifier ,
+Naive Bayes ,
+Extra Trees Classifier ,
+XGBoost, 
+LightGBM ,
+
 Methodology
 
 Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
