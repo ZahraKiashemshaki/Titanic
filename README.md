@@ -16,7 +16,7 @@ AdaBoost Classifier ,
 Naive Bayes ,
 Extra Trees Classifier ,
 XGBoost, 
-LightGBM ,
+LightGBM 
 
 Methodology
 
