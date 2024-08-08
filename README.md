@@ -28,6 +28,6 @@ Results
 
 The performance of each algorithm was compared to determine the best model. Key metrics and visualizations of model performance are included to provide insights into their effectiveness.
 
-Conclusion
+To conclude
 
 This project highlights the importance of feature engineering and model selection in predictive analytics. By comparing multiple algorithms, we gain a deeper understanding of their strengths and limitations in the context of the Titanic dataset.
